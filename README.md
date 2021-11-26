@@ -1,2 +1,2 @@
-# game_testing
-choc
+# choco-private
+game

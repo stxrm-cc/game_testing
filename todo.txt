@@ -1,0 +1,6 @@
+-> change "Change" button to actual styled button
+-> implement javascript game
+-> make site so it scales for all resolutions
+-> recheck autoplay?
+
+-> make it so when you click outisde the modal it closes
